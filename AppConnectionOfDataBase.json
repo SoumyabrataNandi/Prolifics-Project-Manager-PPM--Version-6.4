@@ -1,0 +1,6 @@
+{
+    "ConnectionString": 
+    {
+      "ConnectionDateBase": "Server=DESKTOP-22HM36Q\\SQLEXPRESS; Database=ProlificsProject;Integrated Security=true;trusted_connection=true;encrypt=false"
+    }
+}
